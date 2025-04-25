@@ -1,5 +1,5 @@
 # programmateur
-Script de génération des scénarii de Programmateur pour Jeedom
+Script de génération des scénarios de Programmateur pour Jeedom
 
 Creez un scénario par script portant le nom du fichier
 Cochez la case <b>Active</b>, décochez <b>Visible</b>
